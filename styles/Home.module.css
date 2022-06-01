@@ -13,7 +13,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #30a16d;
   text-decoration: none;
 }
 
@@ -72,8 +72,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #30a16d;
+  border-color: #30a16d;
 }
 
 .card h2 {
@@ -100,7 +100,7 @@
 }
 
 .spanTitle{
-  color: #0070f3;
+  color: #30a16d;
 }
 
 .randomCard{
